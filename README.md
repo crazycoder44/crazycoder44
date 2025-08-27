@@ -74,7 +74,7 @@ Stay tuned as I work on **AI-powered EdTech apps**!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crazycoder44&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentOkoli&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazycoder44&theme=tokyonight" height="160"/>
 </p>
 
 ---
