@@ -1,45 +1,95 @@
-# Hi there, I'm Vincent! 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there,%20I'm%20Vincent!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Banner Image](your_banner_image_url_here)
+---
 
-## About Me 🚀
+## 🚀 About Me  
 
-I'm a passionate **Backend Engineer** with experience in **Python(Django)**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I’m **Vincent Okoli**, a passionate **Backend Engineer** with a growing interest in **Artificial Intelligence** and its application in **education technology**.  
 
-- 🌱 Currently learning: **Java(Spring)**
-- 🔭 Working on: **HR Management System**
-- 🌍 Languages: **Python, Java, English, Igbo**
-- 📫 How to reach me: **vokoliofficial@gmail.com, +2348134424700 (WhatsApp)**
-- ⚡ Fun fact: **I used to run away from programming because it felt too complicated. Now I laugh at my past self for even doing that.**
+I first got into software engineering because of its lucrative potential 💰 — but along the way, I truly fell in love with it. Today, I’m driven by the dream of using **software engineering + AI** to **transform education across Africa and beyond** 🌍.  
 
-## My Skills 🧠
+- 🌱 Currently learning: **Java (Spring Boot)** & **Advanced Backend Architectures**  
+- 🔭 Working on: **Multi-tenant HR Management System (SaaS)**  
+- 🎯 Career Goal: Build **AI-powered EdTech solutions** that make education accessible and personalized.  
+- 🌍 Languages: **Python**, **Java**, **English**, **Igbo**  
+- 📫 Reach me: **vokoliofficial@gmail.com** | WhatsApp: **+234 813 442 4700**  
+- ⚡ Fun fact: I once ran away from programming because it felt *too complicated*. Now I look back and laugh — it became my favorite thing!  
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PosgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+---
 
+## 🧠 Skills & Tools  
 
-## Featured Projects 💻
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
-### [Project 1 Title](project_1_link)
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-![Project 1 Screenshot](project_1_screenshot_url)
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-### [Project 2 Title](project_2_link)
+---
 
-![Project 2 Screenshot](project_2_screenshot_url)
+## 💻 Featured Projects  
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### 🔹 HRMS – Multi-tenant HR Management System  
+📸 *[Insert project screenshot/GIF here]*  
+A **SaaS HRMS app** built with **Django, PostgreSQL (with schema-based multi-tenancy), DRF, and JWT auth**.  
+- Supports **company onboarding**, **employee management**, **attendance tracking**, and **department/job title management**.  
+- Integrates with an **IAM service** for authentication and service orchestration.  
+👉 [Check out the repository](#)  
 
-## Get in Touch 📬
+---
 
-- **[Personal Website]**(https://sites.google.com/view/vincentokoli/welcome?authuser=0)
-- **[LinkedIn]**(https://www.linkedin.com/in/vincent-okoli-67a983329/)
+### 🔹 IAM – Identity & Access Management Service  
+📸 *[Insert project screenshot/GIF here]*  
+A **centralized IAM system** for managing **multi-tenant SaaS authentication**.  
+- Features **company onboarding**, **JWT login/refresh flow**, and **proxy authentication** for external apps.  
+- Powers the HRMS project as a secure auth backbone.  
+👉 [Check out the repository](#)  
 
+---
 
+### 🔹 (More Projects Coming Soon...)  
+Stay tuned as I work on **AI-powered EdTech apps**!  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crazycoder44&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentOkoli&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📬 Get in Touch  
+
+- 🌐 [Personal Website](https://sites.google.com/view/vincentokoli/welcome?authuser=0)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vincent-okoli-67a983329/)  
+- 📧 Email: **vokoliofficial@gmail.com**  
+- 📱 WhatsApp: **+234 813 442 4700**  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+</p>
