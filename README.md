@@ -48,6 +48,7 @@ I first got into software engineering because of its lucrative potential ðŸ’° â€
   <img src="https://img.shields.io/badge/Cron-4A4A4A?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
   <!-- AI & ML -->
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white" />
