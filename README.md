@@ -62,7 +62,7 @@ I first got into software engineering because of its lucrative potential 💰 �
 ## 💻 Featured Projects  
 
 ### 🔹 HRMS – Multi-tenant HR Management System  
-📸 *[Insert project screenshot/GIF here]*  
+📸   
 A **SaaS HRMS app** built with **Django, PostgreSQL (with schema-based multi-tenancy), DRF, and JWT auth**.  
 - Supports **company onboarding**, **employee management**, **attendance tracking**, and **department/job title management**.  
 - Integrates with an **IAM service** for authentication and service orchestration.  
@@ -71,7 +71,7 @@ A **SaaS HRMS app** built with **Django, PostgreSQL (with schema-based multi-ten
 ---
 
 ### 🔹 IAM – Identity & Access Management Service  
-📸 *[Insert project screenshot/GIF here]*  
+📸   
 A **centralized IAM system** for managing **multi-tenant SaaS authentication**.  
 - Features **company onboarding**, **JWT login/refresh flow**, and **proxy authentication** for external apps.  
 - Powers the HRMS project as a secure auth backbone.  
