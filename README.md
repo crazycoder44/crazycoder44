@@ -82,10 +82,10 @@ A **centralized IAM system** for managing **multi-tenant SaaS authentication**.
 
 ### 🔹 Books to Scrape – Web Crawler & RESTful API
 📸
-A **web scraping and data management system** for the Books to Scrape catalog, built with **FastAPI**, **MongoDB**, **httpx**, and **BeautifulSoup**.
-- Includes **async crawler**, **change detection**, and a production-ready **RESTful API** with **API-key auth** and **rate limiting**.
-- Supports advanced filtering, full-text search, pagination, and **scheduled crawling/reporting**.
-👉 Check out the repository
+A **web scraping and data management system** for the Books to Scrape catalog, built with **FastAPI**, **MongoDB**, **httpx**, and **BeautifulSoup**.  
+- Includes **async crawler**, **change detection**, and a production-ready **RESTful API** with **API-key auth** and **rate limiting**.  
+- Supports advanced filtering, full-text search, pagination, and **scheduled crawling/reporting**.  
+👉 [Check out the repository](https://github.com/crazycoder44/web-crawler)
 
 ### 🔹 (More Projects Coming Soon...)  
 Stay tuned as I work on **AI-powered EdTech apps**!  
