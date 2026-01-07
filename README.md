@@ -62,12 +62,32 @@ I first got into software engineering because of its lucrative potential 💰 �
 
 ## 💻 Featured Projects  
 
+
+### 🔹 Books to Scrape – Web Crawler & RESTful API
+📸
+A **web scraping and data management system** for the Books to Scrape catalog, built with **FastAPI**, **MongoDB**, **httpx**, and **BeautifulSoup**.  
+- Includes **async crawler**, **change detection**, and a production-ready **RESTful API** with **API-key auth** and **rate limiting**.  
+- Supports advanced filtering, full-text search, pagination, and **scheduled crawling/reporting**.  
+👉 [Check out the repository](https://github.com/crazycoder44/web-crawler)
+
+---
+
+### 🔹 E-Commerce Backend API
+📸  
+A **Django + DRF** backend for an e-commerce catalog with **PostgreSQL**, **JWT auth**, and full OpenAPI docs.  
+- Features **product/category CRUD**, **advanced filtering/sorting/pagination**, and **owner/admin permissions**.  
+- Performance minded: **query optimization**, **DB indexing**, and pagination defaults.  
+- Infrastructure ready: **Dockerized** for easy local/prod setup and deployed on Render at **https://alx-e-commerce-backend.onrender.com/**.  
+- Extensive docs: **API Guide**, **Swagger/ReDoc**, **ERD**, and **database optimization notes**.  
+👉 [Check out the repository](https://github.com/<your-handle>/alx-e-commerce-backend) • [API Guide](docs/api/API_GUIDE.md) • [Swagger UI](https://alx-e-commerce-backend.onrender.com/api/docs/) • [ReDoc](https://alx-e-commerce-backend.onrender.com/api/redoc/) • [ERD](docs/architecture/erd.png)
+
+---
+
 ### 🔹 HRMS – Multi-tenant HR Management System  
 📸   
 A **SaaS HRMS app** built with **Django, PostgreSQL (with schema-based multi-tenancy), DRF, and JWT auth**.  
 - Supports **company onboarding**, **employee management**, **attendance tracking**, and **department/job title management**.  
 - Integrates with an **IAM service** for authentication and service orchestration.  
-👉 [Check out the repository](#)  
 
 ---
 
@@ -76,16 +96,8 @@ A **SaaS HRMS app** built with **Django, PostgreSQL (with schema-based multi-ten
 A **centralized IAM system** for managing **multi-tenant SaaS authentication**.  
 - Features **company onboarding**, **JWT login/refresh flow**, and **proxy authentication** for external apps.  
 - Powers the HRMS project as a secure auth backbone.  
-👉 [Check out the repository](#)  
 
 ---
-
-### 🔹 Books to Scrape – Web Crawler & RESTful API
-📸
-A **web scraping and data management system** for the Books to Scrape catalog, built with **FastAPI**, **MongoDB**, **httpx**, and **BeautifulSoup**.  
-- Includes **async crawler**, **change detection**, and a production-ready **RESTful API** with **API-key auth** and **rate limiting**.  
-- Supports advanced filtering, full-text search, pagination, and **scheduled crawling/reporting**.  
-👉 [Check out the repository](https://github.com/crazycoder44/web-crawler)
 
 ### 🔹 (More Projects Coming Soon...)  
 Stay tuned as I work on **AI-powered EdTech apps**!  
